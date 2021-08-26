@@ -11,7 +11,8 @@ const emojiDictionary = {
   "🧗": "Person Climbing",
   "🏇": "Horse Riding",
   "🚣": "RowBoat",
-  "🙈": "See-No_evil"
+  "🙈": "See-No_evil",
+  "🥭": "RowBoat"
 };
 
 var emojiList = Object.keys(emojiDictionary);
